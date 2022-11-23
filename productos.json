@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "nombre": "Polera Faith No More",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/p-fnm.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Polera AC/DC",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-acdc.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Polera Metallica",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/p-metallica.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Polera Led Zeppelin",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-LedZeppelin.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Polera System Of A Down",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-SystemOfADown.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Polera Pearl Jam",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-PearlJam.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Polera Alice In Chains",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-AliceInChains.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Polera The Doors",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-TheDoors.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Polera Foo Fighters",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-Foo-Fighters.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Polera Slipknot",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-Slipknot.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Polera Slayer",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/p-Slayer.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Polera Testament",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/P-Testament.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Poleron AC/DC",
+    "precio": 20000,
+    "cantidad": 1,
+    "img": "../Img/Ac-dc-Clasico-Poleron-gris-600x375.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Poleron G & R",
+    "precio": 20000,
+    "cantidad": 1,
+    "img": "../Img/Guns-N-Roses-Poleron-rosa-600x375.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Poleron Nirvana",
+    "precio": 20000,
+    "cantidad": 1,
+    "img": "../Img/Nirvana-Poleron-hombre-Rojo-600x375.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "A KIND OF MAGIC",
+    "precio": 30000,
+    "cantidad": 1,
+    "img": "../Img/queen1.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "A NIGHT AT THE OPERA",
+    "precio": 30000,
+    "cantidad": 1,
+    "img": "../Img/queen2.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "SHEER HEART ATTACK",
+    "precio": 30000,
+    "cantidad": 1,
+    "img": "../Img/queen3.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Anillo Acero Madera",
+    "precio": 8000,
+    "cantidad": 1,
+    "img": "../Img/anillo.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Brazalete Calavera",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/brazalete.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Brazalete Balas",
+    "precio": 10000,
+    "cantidad": 1,
+    "img": "../Img/Brazalete Cuero Negro Balas.jpg"
+  }
+]
