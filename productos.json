@@ -84,66 +84,129 @@
     "img": "../Img/P-Testament.png"
   },
   {
-    "id": 4,
-    "nombre": "Poleron AC/DC",
+    "id": 13,
+    "nombre": "Poleron Faith No More",
     "precio": 20000,
     "cantidad": 1,
-    "img": "../Img/Ac-dc-Clasico-Poleron-gris-600x375.jpg"
+    "img": "../Img/Poleron-FaithNoMore.jpg"
   },
   {
-    "id": 5,
-    "nombre": "Poleron G & R",
+    "id": 14,
+    "nombre": "Poleron Alice In Chains",
     "precio": 20000,
     "cantidad": 1,
-    "img": "../Img/Guns-N-Roses-Poleron-rosa-600x375.jpg"
+    "img": "../Img/Poleron-AliceInChains.jpg"
   },
   {
-    "id": 6,
-    "nombre": "Poleron Nirvana",
+    "id": 15,
+    "nombre": "Poleron Iron Maiden",
     "precio": 20000,
     "cantidad": 1,
-    "img": "../Img/Nirvana-Poleron-hombre-Rojo-600x375.jpg"
+    "img": "../Img/Poleron-IronMaiden.jpg"
   },
   {
-    "id": 7,
-    "nombre": "A KIND OF MAGIC",
+    "id": 16,
+    "nombre": "Poleron Rammstein",
+    "precio": 20000,
+    "cantidad": 1,
+    "img": "../Img/Poleron-Rammstein.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "DISCO VINILO DOBLE  QUEEN A KIND OF MAGIC",
+    "precio": 35000,
+    "cantidad": 1,
+    "img": "../Img/Vinillo-Queen1.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "DISCO VINILO QUEEN SHEER HEART ATTACK",
     "precio": 30000,
     "cantidad": 1,
-    "img": "../Img/queen1.jpg"
+    "img": "../Img/Vinillo-Queen3.jpg"
   },
   {
-    "id": 8,
-    "nombre": "A NIGHT AT THE OPERA",
+    "id": 19,
+    "nombre": "DISCO VINILO QUEEN A NIGHT AT THE OPERA",
     "precio": 30000,
     "cantidad": 1,
-    "img": "../Img/queen2.jpg"
+    "img": "../Img/Vinillo-Queen2.jpg"
   },
   {
-    "id": 9,
-    "nombre": "SHEER HEART ATTACK",
-    "precio": 30000,
+    "id": 20,
+    "nombre": "CD Accept BALLS TO THE WALL ",
+    "precio": 10990,
     "cantidad": 1,
-    "img": "../Img/queen3.jpg"
+    "img": "../Img/CD-Accept.jpg"
   },
   {
-    "id": 10,
-    "nombre": "Anillo Acero Madera",
-    "precio": 8000,
+    "id": 21,
+    "nombre": "CD Alice In Chains ALICE IN CHAINS",
+    "precio": 11990,
     "cantidad": 1,
-    "img": "../Img/anillo.jpg"
+    "img": "../Img/CD-AliceInChains.jpg"
   },
   {
-    "id": 11,
+    "id": 22,
+    "nombre": "CD Judas Priest TURBO",
+    "precio": 10990,
+    "cantidad": 1,
+    "img": "../Img/CD-JudasPriest.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "CD Testament DARK ROOTS OF EARTH",
+    "precio": 18990,
+    "cantidad": 1,
+    "img": "../Img/CD-Testament.jpg"
+  },
+  {
+    "id": 24,
+    "nombre": "CD Duran Duran RIO",
+    "precio": 16990,
+    "cantidad": 1,
+    "img": "../Img/CD-DuranDuran.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "CD David Bowie LEGACY",
+    "precio": 20990,
+    "cantidad": 1,
+    "img": "../Img/CD-DavidBowie.jpg"
+  },
+  {
+    "id": 26,
     "nombre": "Brazalete Calavera",
-    "precio": 10000,
+    "precio": 8990,
     "cantidad": 1,
-    "img": "../Img/brazalete.jpg"
+    "img": "../Img/ACC-BrazaleteBronce.jpg"
   },
   {
-    "id": 12,
-    "nombre": "Brazalete Balas",
-    "precio": 10000,
+    "id": 27,
+    "nombre": "Pañuelo Burdeo",
+    "precio": 5990,
     "cantidad": 1,
-    "img": "../Img/Brazalete Cuero Negro Balas.jpg"
+    "img": "../Img/ACC-PanueloBurdeo.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Anillo Madera",
+    "precio": 3990,
+    "cantidad": 1,
+    "img": "../Img/ACC-Anillo.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Brazalete Balas",
+    "precio": 8990,
+    "cantidad": 1,
+    "img": "../Img/ACC-BrazaleteBalas.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Cinturon Motorhead",
+    "precio": 12990,
+    "cantidad": 1,
+    "img": "../Img/ACC-Cinturon.jpg"
   }
 ]
