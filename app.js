@@ -29,7 +29,7 @@ const productos = [
   },
   {
     id: 5,
-    nombre: "Polera System Of A Down",
+    nombre: "Polera SOAD",
     precio: 10000,
     cantidad: 1,
     img: "../Img/P-SystemOfADown.jpg",
@@ -225,7 +225,24 @@ document.addEventListener('DOMContentLoaded', ()=>{
   mostrarCarrito();
 })
 
+//BOTON UP//
+document.getElementById("button-up").addEventListener('click', scrollUp)
 
+function scrollUp(){
+  let scrollArriba = document.documentElement.scrollTop;
+  if(scrollArriba > 0){    
+    window.scrollTo(0,0);
+  }
+}
+buttonUp = document.getElementById("button-up");
+window.onscroll= function () {
+  let scroll = document.documentElement.scrollTop;
+  if(scroll > 200){
+    buttonUp.style.transform= "scale(1)";
+  }else {
+    buttonUp.style.transform= "scale(0)";
+  }
+}
 
 productos.forEach((product) => {
   const { id, nombre, precio, cantidad, img } = product;

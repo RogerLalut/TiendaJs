@@ -31,10 +31,32 @@ body{
   }
   .col{    
     margin-bottom: 1em;    
-  } 
-  
+  }   
+    
+  #button-up{
+    width: 3rem;
+    height: 3rem;
+    background: #ffc107;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin: 12px;
+    font-size: 1.5rem;
+    position: fixed;
+    bottom: 2em;
+    right: 0.5em;
+    cursor: pointer;
+    border: 4px solid transparent;
+    transition: all 300ms ease;
+    transform:scale(0) ;
+  }
+  #button-up:hover{         
+      transform: scale(1.1);
+      border-color: rgba(0, 0, 0,);
+  }
 }
-
+  
   //inicio index
   
     .encabezado{
