@@ -123,6 +123,11 @@ body {
   width: 90%;
 }
 
+.modal-dialog {
+  display: flex;
+  justify-content: center;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
