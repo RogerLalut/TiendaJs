@@ -358,6 +358,29 @@ const mostrarCarrito = () => {
   );
   guardarStorage();
 };
+
+const obtenerProductos = async() =>{
+  try{
+    const res = await fetch('https://pokeapi.co/api/v2/pokemon/')
+    const datos = await res.json()
+    console.log(datos.results)
+  } catch (error){
+    console.log(error);
+  }
+}
+  obtenerProductos();
+
+// function obrenerProductos (){
+//   fetch('productos.json')
+//   .then(function(res){
+//     return res.json();
+//   })
+//   .then(function(data){
+//     console.log(data);
+//   })
+// }
+
+
 function eliminarProducto(id) {
   const productoId = id;
   carrito = carrito.filter((prod) => prod.id !== productoId);
